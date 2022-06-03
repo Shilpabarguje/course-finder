@@ -51,4 +51,4 @@ function Subject(props) {
     )
 }
 
-export default Subject
+export default Subject;

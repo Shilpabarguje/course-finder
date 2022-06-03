@@ -89,6 +89,7 @@ function FilterBar(props) {
        setChildCourse(null);
        setDate(null);
        setselfPaced(false);
+       props.filter({});
    }}>Reset</Button>
   
     </Grid>
